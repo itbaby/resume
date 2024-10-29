@@ -1,6 +1,6 @@
-# baseurl: '/iconic-resume'
+baseurl: '/resume'
 
-name: Josh Lee
+name: Vincent Lee
 
 headline: >-
   Headline goes here. Example: Data Science degree from Harvard with 3 years of experience in software development.
@@ -9,88 +9,68 @@ headline: >-
 contact:
   -
     icon: 'bi bi-globe'
-    name: example.com
-    url: 'https://www.example.com'  # replace with your own address
+    name: itbaby
+    url: 'https://itbaby.github.io/resume/'  # replace with your own address
   -
     icon: 'bi bi-envelope'
-    name: name@gmail.com
-    url: 'mailto:username@gmail.com'  # replace with your own email
-  -
-    icon: 'bi bi-linkedin'
-    name: Josh Lee
-    url: 'https://www.linkedin.com/in/username'  # replace with your own address
+    name: jquery@hotmail.com
+    url: 'mailto:jquery@hotmail.com'  # replace with your own email
+  
   -
     icon: 'bi bi-github'
-    name: joshtech
-    url: 'https://github.com/username'  # replace with your own address
-  -
-    icon: 'bi bi-youtube'
-    name: joshchannel
-    url: 'https://youtube.com'  # replace with your own address
-
+    name: itbaby
+    url: 'https://github.com/itbaby'  # replace with your own address
+  
 language:
   - English
-  - Italian
-  - Swedish
-  - Japanese
+  - Chinese
 
 techstack:
   -
     icon: python.png
-    name: Python
+    name: Python (5Years)
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: pytorch.png
-    name: PyTorch
+    name: PyTorch (1Year)
     link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: pyspark.png
-    name: PySpark
-    link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: fastapi.png
-    name: FastAPI
-    link: 'https://github.com/'  # replace with your own repo address
+ 
   -
     icon: js.png
-    name: JavaScript
+    name: JavaScript(10+Years)
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: svelte.png
-    name: Svelte
+    name: Svelte (2Years)
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: react.png
-    name: React
+    name: React (2Years)
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: nextjs.svg
-    name: Next.js
+    name: Next.js (4+years)
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: vite.png
-    name: Vite
+    name: Vite (1 Year)
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: swift.png
     name: Swift
     link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: cpp.png
-    name: C++
-    link: 'https://github.com/'  # replace with your own repo address
+
   -
     icon: sql.png
-    name: sql
+    name: sql (3+Years)
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: git.png
-    name: git
+    name: git (7+Years)
     link: 'https://github.com/'  # replace with your own repo address
 
 hobby:
   - Swimming
-  - Hiking
   - Cooking
 
 ########### Education
