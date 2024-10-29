@@ -106,7 +106,7 @@ education:
     loc: JiLin, CN
     time: 2003 ~ 2007 &middot; 4 yrs
     description: >-
-      GPA: 4.0/4.0
+      CET: Level 4
       <br>
       Thesis: Your Thesis Title Here
       <br>
@@ -121,13 +121,13 @@ experience:
     loc: DaLian, CN
     time: 2014 ~ now
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Cras ultricies feugiat vehicula. Aenean nulla ipsum, sagittis ac felis vitae, facilisis maximus justo. Nunc ipsum ex, molestie vel velit eu, aliquet posuere velit. In dignissim volutpat ante, non lacinia eros egestas non. Mauris hendrerit orci sit amet metus facilisis, nec sollicitudin justo consectetur. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
+      Fidelity Investments, formerly known as Fidelity Management & Research (FMR), is an American multinational financial services corporation based in Boston, Massachusetts. Established in 1946, the company is one of the largest asset managers in the world, with $5.4 trillion in assets under management, and $14.1 trillion in assets under administration, as of June 2024, [4] Fidelity Investments operates a brokerage firm, manages a large family of mutual funds, provides fund distribution and investment advice, retirement services, index funds, wealth management, securities execution and clearance, asset custody, and life insurance.
   -
     icon: svs.png
     company: Svs
     role: Tech Leader & Solution Architect
     loc: Dalian, CN
-    time: 2011 ~ 2014 &middot; 2yrs
+    time: 2011 ~ 2014 &middot; 3yrs
     description: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Cras ultricies feugiat vehicula. Aenean nulla ipsum, sagittis ac felis vitae, facilisis maximus justo. Nunc ipsum ex, molestie vel velit eu, aliquet posuere velit. In dignissim volutpat ante, non lacinia eros egestas non. Mauris hendrerit orci sit amet metus facilisis, nec sollicitudin justo consectetur. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
   -
@@ -135,36 +135,10 @@ experience:
     company: Svs
     role: Tech Leader & Solution Architect
     loc: Dalian, CN
-    time: 2008 ~ 2011 &middot; 2yrs
+    time: 2008 ~ 2011 &middot; 3yrs
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Cras ultricies feugiat vehicula. Aenean nulla ipsum, sagittis ac felis vitae, facilisis maximus justo. Nunc ipsum ex, molestie vel velit eu, aliquet posuere velit. In dignissim volutpat ante, non lacinia eros egestas non. Mauris hendrerit orci sit amet metus facilisis, nec sollicitudin justo consectetur. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
+      Dalian Huaxin Computer Technology Co., Ltd. (Dalian Huaxin for short) is a leading supplier of application software products, information services and industry solutions for global customers.
+After years of development, Dalian Huaxin has grown into a provider of comprehensive solutions from software design, development, testing, implementation to later training, maintenance services and business consulting with software technology as the core. Dalian Huaxin's software technology and information services are applied to multiple industries such as telecommunications, electricity, public, finance, insurance, transportation, logistics, media, manufacturing, etc., helping more than 400 customers at home and abroad to improve work quality and effectively enhance customer value.
 
-########### Publications (optional)
-publication:
-  -
-    title: An Awesome Paper with an Awesome Title 2
-    author: Josh Lee
-    journal: International Conference on Machine Learning (ICML)
-    year: 2022
-    link: 'http://arxiv.org/'
-  -
-    title: An Awesome Paper with an Awesome Title 1
-    author: Josh Lee
-    journal: International Conference on Learning Representations (ICLR)
-    year: 2021
-    link: 'http://arxiv.org/'
 
-########### Projects (optional)
-project:
-  -
-    icon: github.svg
-    name: awesome-project-one
-    link: 'https://github.com/'
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
-  -
-    icon: github.svg
-    name: awesome-project-two
-    link: 'https://github.com/'
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
+
