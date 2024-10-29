@@ -29,49 +29,67 @@ techstack:
   -
     icon: angular.png
     name: Angular (8+Years)
-    link: 'https://github.com/'  # replace with your own repo address
+    link: 'https://github.com/'  
   -
-    icon: python.png
-    name: Python (5Years)
-    link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: pytorch.png
-    name: PyTorch (1Year)
-    link: 'https://github.com/'  # replace with your own repo address
- 
+    icon: aws.png
+    name: AWS  (5+Years/Certification)
+    link: 'https://github.com/' 
   -
     icon: js.png
     name: JavaScript(10+Years)
-    link: 'https://github.com/'  # replace with your own repo address
+    link: 'https://github.com/' 
   -
-    icon: svelte.png
-    name: Svelte (2Years)
-    link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: react.png
-    name: React (2Years)
-    link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: nextjs.svg
-    name: Next.js (4+years)
-    link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: vite.png
-    name: Vite (1 Year)
-    link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: swift.png
-    name: Swift
-    link: 'https://github.com/'  # replace with your own repo address
-
-  -
-    icon: sql.png
-    name: sql (3+Years)
-    link: 'https://github.com/'  # replace with your own repo address
+    icon: nodejs.png
+    name: Nodejs(10+Years)
+    link: 'https://github.com/' 
   -
     icon: git.png
     name: git (7+Years)
-    link: 'https://github.com/'  # replace with your own repo address
+    link: 'https://github.com/'  
+  -
+    icon: jenkins.png
+    name: Jenkins (6+Years)
+    link: 'https://github.com/' 
+  -
+    icon: python.png
+    name: Python (5Years)
+    link: 'https://github.com/'  
+  -
+    icon: vue.png
+    name: Vue (2+Year)
+    link: 'https://github.com/'    
+  -
+    icon: svelte.png
+    name: Svelte (2Years)
+    link: 'https://github.com/'  
+  -
+    icon: react.png
+    name: React (2Years)
+    link: 'https://github.com/'  
+  -
+    icon: nextjs.svg
+    name: Next.js (4+years)
+    link: 'https://github.com/'  
+  -
+    icon: vite.png
+    name: Vite (1 Year)
+    link: 'https://github.com/'  
+  -
+    icon: go.png
+    name: GoLang (2+Years)
+    link: 'https://github.com/'
+  -
+    icon: sql.png
+    name: Sql (5+Years)
+    link: 'https://github.com/'  
+  -
+    icon: confluence.png
+    name: Confluence (6+Years)
+    link: 'https://github.com/' 
+  -
+    icon: jira.png
+    name: Jira (6+Years)
+    link: 'https://github.com/'    
 
 hobby:
   - Swimming
