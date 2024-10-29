@@ -20,6 +20,12 @@ contact:
     icon: 'bi bi-github'
     name: itbaby
     url: 'https://github.com/itbaby'  # replace with your own address
+  -
+    icon: 'bi bi-phone-fill'
+    name: +86-18042679161
+    url: ''  # replace with your own address
+
+    
   
 language:
   - English
@@ -28,67 +34,63 @@ language:
 techstack:
   -
     icon: angular.png
-    name: Angular (8+Years)
+    name: Angular (8yrs)
     link: 'https://github.com/'  
   -
-    icon: aws.png
-    name: AWS  (5+Years/Certification)
+    icon: js.png
+    name: JavaScript(12yrs)
     link: 'https://github.com/' 
   -
-    icon: js.png
-    name: JavaScript(10+Years)
+    icon: ts.png
+    name: JavaScript(7yrs)
+    link: 'https://github.com/' 
+  -
+    icon: aws.png
+    name: AWS  (5yrs/Cert)
     link: 'https://github.com/' 
   -
     icon: nodejs.png
-    name: Nodejs(10+Years)
+    name: Nodejs(10yrs)
     link: 'https://github.com/' 
   -
     icon: git.png
-    name: git (7+Years)
+    name: git (7yrs)
     link: 'https://github.com/'  
   -
     icon: jenkins.png
-    name: Jenkins (6+Years)
+    name: Jenkins (6yrs)
     link: 'https://github.com/' 
   -
     icon: python.png
-    name: Python (5Years)
+    name: Python (5yrs)
     link: 'https://github.com/'  
   -
     icon: vue.png
-    name: Vue (2+Year)
+    name: Vue/UNI-APP (2yrs)
     link: 'https://github.com/'    
   -
     icon: svelte.png
-    name: Svelte (2Years)
+    name: Svelte (2yrs)
     link: 'https://github.com/'  
   -
     icon: react.png
-    name: React (2Years)
-    link: 'https://github.com/'  
-  -
-    icon: nextjs.svg
-    name: Next.js (4+years)
-    link: 'https://github.com/'  
-  -
-    icon: vite.png
-    name: Vite (1 Year)
+    name: React (1yrs)
     link: 'https://github.com/'  
   -
     icon: go.png
-    name: GoLang (2+Years)
+    name: GoLang (3yrs)
     link: 'https://github.com/'
   -
     icon: sql.png
-    name: Sql (5+Years)
+    name: Sql (5yrs)
     link: 'https://github.com/'  
   -
     icon: confluence.png
-    name: Confluence (6+Years)
+    name: Confluence (6yrs)
     link: 'https://github.com/' 
   -
     icon: jira.png
-    name: Jira (6+Years)
+    name: Jira (6yrs)
     link: 'https://github.com/'    
 
 hobby:
@@ -98,44 +100,42 @@ hobby:
 ########### Education
 education:
   -
-    icon: harvard.png
-    school: Harvard University
-    degree: MSc. in Data Science
-    loc: Boston, MA
-    time: 2018 ~ 2020 &middot; 2 yrs
+    icon: jlsfdx.png
+    school: Jilin Normal University
+    degree: Bachelor's degree, Computer Science and Technology
+    loc: JiLin, CN
+    time: 2003 ~ 2007 &middot; 4 yrs
     description: >-
       GPA: 4.0/4.0
       <br>
       Thesis: Your Thesis Title Here
       <br>
       Other information here.
-  -
-    icon: cmu.png
-    school: Carnegie Mellon University
-    degree: BSc. in Computer Science
-    loc: Pittsburgh, PA
-    time: 2014 ~ 2018 &middot; 4 yrs
-    description: >-
-      GPA: 4.0/4.0
-      <br>
-      Other information here.
-
+  
 ########### Experience (optional)
 experience:
   -
-    icon: google.png
-    company: Google
-    role: Machine Learning Engineer
-    loc: Mountain View, CA
-    time: 2022 ~ now
+    icon: fidelity-investments-logo.png
+    company: Fidelity Investments
+    role: Tech Leader
+    loc: DaLian, CN
+    time: 2014 ~ now
     description: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Cras ultricies feugiat vehicula. Aenean nulla ipsum, sagittis ac felis vitae, facilisis maximus justo. Nunc ipsum ex, molestie vel velit eu, aliquet posuere velit. In dignissim volutpat ante, non lacinia eros egestas non. Mauris hendrerit orci sit amet metus facilisis, nec sollicitudin justo consectetur. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
   -
-    icon: amazon.png
-    company: Amazon
-    role: Software Developer
-    loc: Seattle, WA
-    time: 2020 ~ 2022 &middot; 2yrs
+    icon: svs.png
+    company: Svs
+    role: Tech Leader & Solution Architect
+    loc: Dalian, CN
+    time: 2011 ~ 2014 &middot; 2yrs
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Cras ultricies feugiat vehicula. Aenean nulla ipsum, sagittis ac felis vitae, facilisis maximus justo. Nunc ipsum ex, molestie vel velit eu, aliquet posuere velit. In dignissim volutpat ante, non lacinia eros egestas non. Mauris hendrerit orci sit amet metus facilisis, nec sollicitudin justo consectetur. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
+  -
+    icon: huaxin.png
+    company: Svs
+    role: Tech Leader & Solution Architect
+    loc: Dalian, CN
+    time: 2008 ~ 2011 &middot; 2yrs
     description: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Cras ultricies feugiat vehicula. Aenean nulla ipsum, sagittis ac felis vitae, facilisis maximus justo. Nunc ipsum ex, molestie vel velit eu, aliquet posuere velit. In dignissim volutpat ante, non lacinia eros egestas non. Mauris hendrerit orci sit amet metus facilisis, nec sollicitudin justo consectetur. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
 
