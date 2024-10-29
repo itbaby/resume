@@ -27,6 +27,10 @@ language:
 
 techstack:
   -
+    icon: angular.png
+    name: Angular (8+Years)
+    link: 'https://github.com/'  # replace with your own repo address
+  -
     icon: python.png
     name: Python (5Years)
     link: 'https://github.com/'  # replace with your own repo address
