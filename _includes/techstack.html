@@ -1,9 +1,0 @@
-<div class="techstack">
-{% for lan in site.techstack %}
-  <div class="item">
-    <span class="item-inner">
-       <img src="{{lan.icon | prepend: '/imgs/' | prepend: site.baseurl}}"/> &nbsp; <span>{{lan.name}}</span>
-    </span>
-  </div>
-{% endfor %}
-</div>

@@ -1,41 +1,41 @@
-{%- assign project = data.project %}
-{%- if project and project.show %}
-<section class="project" style="order: {{ project.order | default: 1 }}">
+{%- assign award = data.award %}
+{%- if award and award.show %}
+<section class="award" style="order: {{ award.order | default: 1 }}">
   <div class="section-title">
-    <i class="section-icon fa-solid fa-folder-open"></i>
-    <h2>{{ project.title }}</h2>
+    <i class="section-icon fa-solid fa-award"></i>
+    <h2>{{ award.title }}</h2>
   </div>
 
   <div class="section-content">
-    {%- if project.description.size > 0 %}
+    {%- if award.description.size > 0 %}
     <div class="description markdown">
-      {{ project.description | markdownify }}
+      {{ award.description | markdownify }}
     </div>
     {%- endif %}
 
-    {%- if project.items %}
+    {%- if award.items %}
     <div class="items">
-      {%- for item in project.items %}
+      {%- for item in award.items %}
       <div class="item">
 
         {%- if item.name %}
         <div class="row">
-          <div class="project-name">
+          <div class="award-name">
             {%- if item.link %}
             <a href="{{ item.link }}" target="_blank">{{ item.name }}</a>
             {%- else %}
             <span>{{ item.name }}</span>
             {%- endif %}
-            {%- if item.tags %}
-            <small>[{{ item.tags }}]</small>
-            {%- endif %}
           </div>
+        </div>
 
-          {%- if item.date %}
+        <div class="row">
+          <div class="awarder">
+            <span>{{ item.awarder }}</span>
+          </div>
           <div class="date">
             <span>{{ item.date }}</span>
           </div>
-          {%- endif %}
         </div>
 
         {%- if item.description.size > 0 %}

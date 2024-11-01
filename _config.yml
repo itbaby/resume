@@ -1,118 +1,30 @@
-baseurl: "/resume"
+# Welcome to Jekyll!
+title: Vincent Li
+url:
+baseurl:/aboutme
 
-name: Rubin Lee
+# Sass setting
+sass/style: compressed
 
-headline: >-
-  10yrs on tech solutions for big finance company, master popular front-end tech solutions. master anguar / design / solutions for global company.
-  understand scrum / aws / k8s solutions in products. support global tech solutions for many international companies.
+# Privacy
+open: true                  # show or hide your resume
+allow_search_engines: true  # allow your resume indexing by search engine, 'true' or 'false'
+description:                # your resume description
+open_graph:
+  enable: true                        # enable open graph meta tags
+  image: /assets/images/profile.png   # path or link to the open graph image
 
-contact:
-  - icon: "bi bi-globe"
-    name: itbaby
-    url: "https://itbaby.github.io/resume/" # replace with your own address
-  - icon: "bi bi-envelope"
-    name: jquery@hotmail.com
-    url: "mailto:jquery@hotmail.com" # replace with your own email
+# Style
+date_format: "%Y-%m-%d"     # date format
+theme_color: "#1DA1F2"      # your favorite theme color
+contact_delimiter: "·"      # contact delimiter, '·', '/' or '|'
+section_icon: true          # section title icon, true or false
+section_title: uppercase    # section title style, 'uppercase', 'lowercase', 'capitalize' or 'none'
+section_align: start        # section title align, 'start', 'end' or 'center'
+section_line: dashed        # section title line, 'solid', 'dashed' or 'none'
+section_background: false   # section title backound, 'true' or 'false'
+skill_level_icon: lightbulb # skill rate icon, 'heart', 'star', 'circle' or 'lightbulb'
+link_icon: true             # show link icon, 'true' or 'false'
+site_footer: true           # show site footer, 'true' or 'false'
 
-  - icon: "bi bi-github"
-    name: itbaby
-    url: "https://github.com/itbaby" # replace with your own address
-  - icon: "bi bi-phone-fill"
-    name: +86-18042679161
-    url: "" # replace with your own address
 
-language:
-  - English
-  - Chinese
-
-techstack:
-  - icon: angular.png
-    name: Angular (8yrs)
-    link: "https://github.com/"
-  - icon: js.png
-    name: JavaScript(12yrs)
-    link: "https://github.com/"
-  - icon: ts.png
-    name: JavaScript(7yrs)
-    link: "https://github.com/"
-  - icon: aws.png
-    name: AWS  (5yrs/Cert)
-    link: "https://github.com/"
-  - icon: nodejs.png
-    name: Nodejs(10yrs)
-    link: "https://github.com/"
-  - icon: u3d.png
-    name: Unity (3yrs)
-    link: "https://github.com/"
-  - icon: git.png
-    name: git (7yrs)
-    link: "https://github.com/"
-  - icon: jenkins.png
-    name: Jenkins (6yrs)
-    link: "https://github.com/"
-  - icon: python.png
-    name: Python (5yrs)
-    link: "https://github.com/"
-  - icon: vue.png
-    name: Vue/UNI-APP (2yrs)
-    link: "https://github.com/"
-  - icon: svelte.png
-    name: Svelte (2yrs)
-    link: "https://github.com/"
-  - icon: react.png
-    name: React (1yrs)
-    link: "https://github.com/"
-  - icon: go.png
-    name: GoLang (3yrs)
-    link: "https://github.com/"
-  - icon: sql.png
-    name: Sql (5yrs)
-    link: "https://github.com/"
-  - icon: confluence.png
-    name: Confluence (6yrs)
-    link: "https://github.com/"
-  - icon: jira.png
-    name: Jira (6yrs)
-    link: "https://github.com/"
-
-hobby:
-  - Swimming
-  - Cooking
-
-########### Education
-education:
-  - icon: jlsfdx.png
-    school: Jilin Normal University
-    degree: Bachelor's degree, Computer Science and Technology
-    loc: JiLin, CN
-    time: 2003 ~ 2007 &middot; 4 yrs
-    description: >-
-      CET: Level 4
-      <br>
-      Thesis: Your Thesis Title Here
-      <br>
-      Other information here.
-
-########### Experience (optional)
-experience:
-  - icon: fidelity-investments-logo.png
-    company: Fidelity Investments
-    role: Tech Leader II
-    loc: DaLian, CN
-    time: 2014 ~ now
-    description: >-
-      Fidelity Investments, formerly known as Fidelity Management & Research (FMR), is an American multinational financial services corporation based in Boston, Massachusetts. Established in 1946, the company is one of the largest asset managers in the world, with $5.4 trillion in assets under management, and $14.1 trillion in assets under administration, as of June 2024, [4] Fidelity Investments operates a brokerage firm, manages a large family of mutual funds, provides fund distribution and investment advice, retirement services, index funds, wealth management, securities execution and clearance, asset custody, and life insurance.
-  - icon: svs.png
-    company: Sharp Vision Software
-    role: Tech Leader & Solution Architect
-    loc: Dalian, CN
-    time: 2011 ~ 2014 &middot; 3yrs
-    description: >-
-      Sharp Vision Software develops innovative solutions for training, engineering, manufacturing, maintenance, and field service using cutting-edge technologies to clients in defense, healthcare, pharmaceutical, aviation, power, and oil & gas industries.
-  - icon: huaxin.png
-    company: DHC-DaLian
-    role: Developer
-    loc: Dalian, CN
-    time: 2008 ~ 2011 &middot; 3yrs
-    description: >-
-      Dalian Huaxin Computer Technology Co., Ltd. (Dalian Huaxin for short) is a leading supplier of application software products, information services and industry solutions for global customers. After years of development, Dalian Huaxin has grown into a provider of comprehensive solutions from software design, development, testing, implementation to later training, maintenance services and business consulting with software technology as the core. Dalian Huaxin's software technology and information services are applied to multiple industries such as telecommunications, electricity, public, finance, insurance, transportation, logistics, media, manufacturing, etc., helping more than 400 customers at home and abroad to improve work quality and effectively enhance customer value.
