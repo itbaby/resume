@@ -1,4 +1,4 @@
-baseurl: "/resume"
+﻿baseurl: "/resume"
 
 name: Rubin Lee
 
@@ -80,39 +80,3 @@ hobby:
   - Cooking
 
 ########### Education
-education:
-  - icon: jlsfdx.png
-    school: Jilin Normal University
-    degree: Bachelor's degree, Computer Science and Technology
-    loc: JiLin, CN
-    time: 2003 ~ 2007 &middot; 4 yrs
-    description: >-
-      CET: Level 4
-      <br>
-      Thesis: Your Thesis Title Here
-      <br>
-      Other information here.
-
-########### Experience (optional)
-experience:
-  - icon: fidelity-investments-logo.png
-    company: Fidelity Investments
-    role: Tech Leader II
-    loc: DaLian, CN
-    time: 2014 ~ now
-    description: >-
-      Fidelity Investments, formerly known as Fidelity Management & Research (FMR), is an American multinational financial services corporation based in Boston, Massachusetts. Established in 1946, the company is one of the largest asset managers in the world, with $5.4 trillion in assets under management, and $14.1 trillion in assets under administration, as of June 2024, [4] Fidelity Investments operates a brokerage firm, manages a large family of mutual funds, provides fund distribution and investment advice, retirement services, index funds, wealth management, securities execution and clearance, asset custody, and life insurance.
-  - icon: svs.png
-    company: Sharp Vision Software
-    role: Tech Leader & Solution Architect
-    loc: Dalian, CN
-    time: 2011 ~ 2014 &middot; 3yrs
-    description: >-
-      Sharp Vision Software develops innovative solutions for training, engineering, manufacturing, maintenance, and field service using cutting-edge technologies to clients in defense, healthcare, pharmaceutical, aviation, power, and oil & gas industries.
-  - icon: huaxin.png
-    company: DHC-DaLian
-    role: Developer
-    loc: Dalian, CN
-    time: 2008 ~ 2011 &middot; 3yrs
-    description: >-
-      Dalian Huaxin Computer Technology Co., Ltd. (Dalian Huaxin for short) is a leading supplier of application software products, information services and industry solutions for global customers. After years of development, Dalian Huaxin has grown into a provider of comprehensive solutions from software design, development, testing, implementation to later training, maintenance services and business consulting with software technology as the core. Dalian Huaxin's software technology and information services are applied to multiple industries such as telecommunications, electricity, public, finance, insurance, transportation, logistics, media, manufacturing, etc., helping more than 400 customers at home and abroad to improve work quality and effectively enhance customer value.
